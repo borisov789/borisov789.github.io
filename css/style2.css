@@ -1,0 +1,93 @@
+.фон {
+    position: absolute;
+    height: 775px;
+    width: 1921px;
+    background-color: #f2e8e8;
+
+}
+
+.узор {
+
+    position: absolute;
+    padding-top: 626px;
+}
+
+.узор2 {
+    position: absolute;
+    padding-top: 0px;
+    padding-left: 1070px;
+}
+
+.фотография {
+
+    position: absolute;
+    padding-top: 288px;
+    padding-left: 975px;
+
+}
+
+.слой-промо {
+
+    position: absolute;
+    padding-top: 288px;
+    padding-left: 975px;
+
+
+}
+
+.афиша {
+
+    position: absolute;
+    padding-top: 217px;
+    padding-left: 1011px;
+    color: #be6563;
+
+
+}
+
+.описание-к-афише {
+
+    position: absolute;
+    padding-top: 300px;
+}
+
+.свойства-текста-1 {
+    font-weight: bolder;
+
+}
+
+.инфа-1 {
+
+    position: absolute;
+    padding-top: 228px;
+    padding-left: 390px;
+}
+
+.стрелка {
+
+    position: absolute;
+    padding-top: 435px;
+    padding-left: 927px;
+
+}
+
+.стрелка2 {
+
+    position: absolute;
+    padding-top: 435px;
+    padding-left: 1559px;
+
+}
+
+@media screen and (min-width: 100px) and (max-width: 900px) {
+
+     .инфа-1 { font-size: 500% }
+
+
+}
+
+@media screen and (min-width: 761px) and (max-width: 1250px) {
+
+
+
+}
